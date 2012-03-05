@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: randomposts\n"
+"Report-Msgid-Bugs-To: http://www.sooource.net/wp-randomposts\n"
+"POT-Creation-Date: 2010-07-14 16:21+0000\n"
+"PO-Revision-Date: 2012-02-23 21:49+0800\n"
+"Last-Translator: Alexei91 <crab.91@mail.ru>\n"
+"Language-Team: http://www.sooource.net <alexeib@sooource.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /opt/lampp/htdocs/sooource.net/cmswordpress/wp-content/plugins/wp-randomposts/\n"
+
+#: wp-randomposts.php:18
+#: wp-randomposts.php:24
+msgid "Random entries"
+msgstr "Случайные записи"
+
+#: wp-randomposts.php:18
+msgid "Random entries on your site"
+msgstr "Случайные записи вашего сайта"
+
+#: wp-randomposts.php:47
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: wp-randomposts.php:51
+msgid "Number of entries:"
+msgstr "Количество записей:"
+
+#: wp-randomposts.php:53
+msgid "Categories ID:"
+msgstr "ID рубрик:"
+
+#: wp-randomposts.php:56
+msgid "Display a quote?"
+msgstr "Отображать цитату?"
+
+#: wp-randomposts.php:61
+msgid "Tag before heading out on:"
+msgstr "Тег перед заголовком записи:"
+
+#: wp-randomposts.php:65
+msgid "Tag after the header record:"
+msgstr "Тег после заголовка записи:"
+
+#: wp-randomposts.php:69
+msgid "Tag to quote on:"
+msgstr "Тег перед цитатой записи:"
+
+#: wp-randomposts.php:73
+msgid "Tag after a quotation on:"
+msgstr "Тег после цитаты записи:"
+
