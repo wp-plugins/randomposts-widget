@@ -109,7 +109,7 @@ class WPRandomPosts {
 					echo '<div id="post-'.get_the_ID().'"><li><a href="'.get_permalink().'">'.get_the_title().'</a></li></div>';								 
 				endwhile; 
 				echo '</ul>';
-				echo DevRP;
+				
 			endif;
 		}
 		
@@ -132,5 +132,4 @@ add_action('widgets_init', 'WPRandomPosts_widgets_init');
 //localization
 load_plugin_textdomain( 'wp-randomposts', false, '/'.basename(dirname(__FILE__)).'/languages' );
 
-define("DevRP", '<span style="border:0;color:#f00;float:left;width:50% !important;margin:-100% 0 0 0;overflow:hidden;line-height:0;padding:0;font-size:11px;">Plugin thanks to <a href="http://www.r4carddirect.co.uk">r4i card</a> and <a href="http://www.ir4.co.uk">r4</a></span>'); 
 ?>

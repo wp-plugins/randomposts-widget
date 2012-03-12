@@ -3,7 +3,7 @@ Contributors: Dan Mahon
 Tags: widget, posts, show random posts,sidebar,random,posts,display posts,list posts,visitors,index,seo,seo widget,seo plugin
 Requires at least: 3.0.1
 Tested up to: 3.3.1
-Stable tag: 1.0.0
+Stable tag: 1.2
 
 Displays random psots on the sidebar of your blog, ideal for keeping visitors on your site longer and offering more reading.
 
