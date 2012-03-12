@@ -3,7 +3,7 @@
 /*
 Plugin Name: Random Posts Widget
 Description: Displays random psots on the sidebar of your blog, ideal for keeping visitors on your site longer and offering more reading.
-Version: 1.0.0
+Version: 1.2
 Author: Dan Mahon
 */ 
 
